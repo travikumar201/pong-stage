@@ -1,4 +1,4 @@
-# PollInput
+# Poll Input
 
 ## Feature
 
