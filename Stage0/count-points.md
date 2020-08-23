@@ -25,3 +25,4 @@ player wins a game
   When any one of the two players reaches 10 points first
 
   Then that player is declared the winner
+  
