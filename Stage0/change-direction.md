@@ -13,7 +13,7 @@ starts when ball collides away from players pad.
 
 ### Scenario: Change in direction
 
-  Given that the pong ball can hit the pads and reflect 
+  Given that the pong ball can hit the pads and reflect
 
   When I hit the arriving pong ball with my pad
 
